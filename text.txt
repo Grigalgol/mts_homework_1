@@ -1,1 +1,2 @@
 some text (main branch)
+new some text (branch2 branch)
